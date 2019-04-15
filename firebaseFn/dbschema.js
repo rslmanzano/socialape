@@ -21,6 +21,14 @@ let db = {
             commentCount: 2,
         },
     ],
+    comments: [
+        {
+            userHandle: "liam",
+            screamId: "6jaYGUbIXVODhdax66T7",
+            body: "This is a comment in a body",
+            createdAt: "2019-04-14T08:24:29.811Z",
+        },
+    ],
 }
 
 const userDetails = {
